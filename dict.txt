@@ -1,0 +1,7 @@
+{'tbi_cli_glasgow': (0.0, 15.0), 'ethanol': (), 'tbi_cli_breathing_rate': (12.0, 18.0), 
+ 'tbi_ct_subdural_hematoma_position_proprotion': (), 'tbi_ct_subdural_hematoma_position_value': (), 
+ 'tbi_ct_rotterdam': (1.0, 6.0), 'tbi_ct_epidural_hematoma_value': (), 'tbi_ct_subdural_hematoma_thick': (), 
+ 'tbi_ct_cerebral_contusion_volume': (), 'age_at_record': (9.0, 90.0), 'tbi_cli_time_acci_hos': (), 
+ 'tbi_ct_skull_risk': (1.0, 2.0), 'tbi_ct_epidural_hematoma_volume': (), 'tbi_cli_pulse': (), 
+ 'tbi_ct_skull_fracture_characteristic': (1.0, 2.0), 'tbi_ct_subarachnoid_characteristic': (1.0, 2.0), 'tbi_cli_hypertension': (1.0, 2.0)
+ , 'tbi_cli_temp': ()}
